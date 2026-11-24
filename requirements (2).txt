@@ -1,0 +1,12 @@
+streamlit
+requests
+pandas
+folium
+streamlit-folium
+geopy
+scikit-learn
+pillow
+anthropic
+# Фото арқылы анықтау (CLIP) керек болса, келесі екеуін де қос:
+# transformers
+# torch
